@@ -1,6 +1,7 @@
 # Task_A
 Task for Learning
-This is project is made in Python 3.6 using Django 1.11 in Windows platform.
+
+This project is made in Python 3.6 using Django 1.11 in Windows platform.
 
 Pre-Requisites
 1. Windows OS.
