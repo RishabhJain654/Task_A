@@ -10,9 +10,9 @@ Pre-Requisites
 4. Postgres 9.6 for Windows.
 5. A Postgres DB named "task", username "admin" and password "admin".
 6. Following Python modules need to be installed additionally:
-  a) Django Rest Framework: It can be installed in cmd using command "pip install djangorestframework".
-  b) Requests: It can be installed in cmd using command "pip install requests".
-  c) Httpie: It can be installed in cmd using command "pip install httpie".
+  1) Django Rest Framework: It can be installed in cmd using command "pip install djangorestframework".
+  2) Requests: It can be installed in cmd using command "pip install requests".
+  3) Httpie: It can be installed in cmd using command "pip install httpie".
 
 Note:
 1. This project is developed in Virtual Environment. It can be installed without it but it is not recommended.
